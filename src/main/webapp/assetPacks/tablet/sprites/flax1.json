@@ -1,0 +1,21 @@
+{"frames": {
+
+"popUpWinSunBurst":
+{
+	"frame": {"x":1,"y":1,"w":1000,"h":1000},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1000},
+	"sourceSize": {"w":1000,"h":1000}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "flax1.png",
+	"format": "RGBA8888",
+	"size": {"w":1002,"h":1002},
+	"scale": "1",
+	"related_multi_packs": [ "flax0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f7d0b584dfc7b11a543b260fbb3947c1:aa94a7b20774266448abad7f799e3153:ce460eca6617d08a9b8bfed760f7cb19$"
+}
+}
