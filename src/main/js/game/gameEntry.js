@@ -101,7 +101,6 @@ define(function (require) {
 	}
 
 	const msgBus = require("skbJet/component/gameMsgBus/GameMsgBus");
-	const SKBeInstant = require("skbJet/component/SKBeInstant/SKBeInstant");
 
 	function gameInit() {
 		// Register a transform function that can be used to turn the prizetable data into structured
